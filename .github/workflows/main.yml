@@ -13,7 +13,11 @@ jobs:
         id: snake-gif
   
         with:
+<<<<<<< HEAD
           github_user_name: eagrundy
+=======
+          github_user_name: JoseManuelbg
+>>>>>>> c27b1e4b4c379a5fccdbf2b20bbcce70c32354cc
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
