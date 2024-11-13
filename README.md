@@ -79,6 +79,3 @@
 
 ###
 
-![Snake animation](https://github.com/JoseManuelbg/JoseManuelbg/blob/output/github-contribution-grid-snake.svg)
-###
-
