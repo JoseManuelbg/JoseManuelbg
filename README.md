@@ -23,7 +23,4 @@ AAA contrast.
 [LinkedIn](https://www.linkedin.com/in/josemanuelbg05/) ·
 [CodePen](https://codepen.io/JoseManuelbg)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseManuelbg&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseManuelbg&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
+
