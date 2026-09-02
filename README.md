@@ -1,25 +1,29 @@
 # Jose Manuel
 
-Desarrollador web. Hago APIs en Java con Spring Boot, front en TypeScript
-y webs estáticas muy cuidadas para negocios locales: cartas de restaurante,
-citas de consulta, tiendas de barrio.
+Full-stack developer. I build Spring Boot APIs, React/TypeScript fronts,
+and hand-crafted static websites for local businesses — restaurant menus,
+appointment booking, small shops.
 
-Me importa que las cosas carguen rápido, que funcionen sin JavaScript
-cuando se puede, y que las pueda usar todo el mundo: las últimas webs que
-he montado van a por WCAG AA, con contraste AAA y la carta en HTML de
-verdad, no en un PDF.
+I care about pages that load fast, work without JavaScript when they can,
+and can be used by everyone: my latest client sites target WCAG AA, with
+AAA contrast.
 
-**Por aquí ahora mismo**
+**Around here**
 
-- [agencyos](https://github.com/JoseManuelbg/agencyos) — gestión para
-  equipos de consultoría, en TypeScript. Mi repo con más vida ajena.
-- [Mentorly](https://github.com/JoseManuelbg/MentorlyBackend) — plataforma
-  de mentorías: API en Spring Boot y
-  [front en React](https://github.com/JoseManuelbg/MentorlyFrontend).
-- Varias webs de clientes y un juego de máquinas expendedoras con ligas
-  semanales que todavía viven en repos privados; irán saliendo.
+- [agencyos](https://github.com/JoseManuelbg/agencyos) — management tool
+  for consulting teams, in TypeScript. My most-forked repo.
+- [Mentorly](https://github.com/JoseManuelbg/MentorlyBackend) — mentoring
+  platform: Spring Boot API plus a
+  [React front](https://github.com/JoseManuelbg/MentorlyFrontend).
+- Several client sites and a vending-machine game with weekly leagues
+  still live in private repos — they'll be coming out.
 
-**Contacto** —
-[correo](mailto:josemanuelbabaciugheorghiu@gmail.com) ·
+**Contact** —
+[email](mailto:josemanuelbabaciugheorghiu@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/josemanuelbg05/) ·
 [CodePen](https://codepen.io/JoseManuelbg)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseManuelbg&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseManuelbg&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+</div>
